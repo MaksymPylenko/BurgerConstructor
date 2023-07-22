@@ -1,0 +1,166 @@
+{
+  "ingredients": [
+    {
+      "name": "Light Bun",
+      "type": "bun",
+      "price": 50,
+      "weight": 50
+    },
+    {
+      "name": "Dark Bun",
+      "type": "bun",
+      "price": 60,
+      "weight": 55
+    },
+    {
+      "name": "Sesame Bun",
+      "type": "bun",
+      "price": 70,
+      "weight": 60
+    },
+    {
+      "name": "Beef Cutlet",
+      "type": "cutlet",
+      "price": 250,
+      "weight": 100
+    },
+    {
+      "name": "Fish Cutlet",
+      "type": "cutlet",
+      "price": 220,
+      "weight": 80
+    },
+    {
+      "name": "Chicken Cutlet",
+      "type": "cutlet",
+      "price": 180,
+      "weight": 70
+    },
+    {
+      "name": "Pork Cutlet",
+      "type": "cutlet",
+      "price": 200,
+      "weight": 90
+    },
+    {
+      "name": "Bacon",
+      "type": "meat",
+      "price": 100,
+      "weight": 40
+    },
+    {
+      "name": "Ham",
+      "type": "meat",
+      "price": 90,
+      "weight": 35
+    },
+    {
+      "name": "Salami",
+      "type": "meat",
+      "price": 120,
+      "weight": 45
+    },
+    {
+      "name": "Turkey",
+      "type": "meat",
+      "price": 110,
+      "weight": 40
+    },
+    {
+      "name": "Tomato",
+      "type": "vegetables",
+      "price": 30,
+      "weight": 20
+    },
+    {
+      "name": "Onion",
+      "type": "vegetables",
+      "price": 20,
+      "weight": 15
+    },
+    {
+      "name": "Cucumber",
+      "type": "vegetables",
+      "price": 40,
+      "weight": 25
+    },
+    {
+      "name": "Salted Cucumber",
+      "type": "vegetables",
+      "price": 50,
+      "weight": 30
+    },
+    {
+      "name": "Lettuce",
+      "type": "vegetables",
+      "price": 25,
+      "weight": 10
+    },
+    {
+      "name": "Tomato Sauce",
+      "type": "sauce",
+      "price": 20,
+      "weight": 15
+    },
+    {
+      "name": "Garlic Sauce",
+      "type": "sauce",
+      "price": 30,
+      "weight": 20
+    },
+    {
+      "name": "Jalapeno Sauce",
+      "type": "sauce",
+      "price": 40,
+      "weight": 25
+    },
+    {
+      "name": "Honey Mustard Sauce",
+      "type": "sauce",
+      "price": 20,
+      "weight": 15
+    },
+    {
+      "name": "Pickles",
+      "type": "vegetables",
+      "price": 15,
+      "weight": 10
+    },
+    {
+      "name": "Red Cabbage",
+      "type": "vegetables",
+      "price": 30,
+      "weight": 15
+    },
+    {
+      "name": "Avocado",
+      "type": "vegetables",
+      "price": 60,
+      "weight": 30
+    },
+    {
+      "name": "Bell Pepper",
+      "type": "vegetables",
+      "price": 25,
+      "weight": 15
+    },
+    {
+      "name": "Mushrooms",
+      "type": "vegetables",
+      "price": 30,
+      "weight": 20
+    },
+    {
+      "name": "Banana",
+      "type": "fruits",
+      "price": 50,
+      "weight": 40
+    },
+    {
+      "name": "Fried Eggs",
+      "type": "eggs",
+      "price": 80,
+      "weight": 50
+    }
+  ]
+}
